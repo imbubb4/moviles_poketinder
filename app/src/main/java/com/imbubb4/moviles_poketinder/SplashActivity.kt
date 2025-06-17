@@ -1,4 +1,4 @@
-package com.saico.victor.poketinder_2025_01
+package com.imbubb4.moviles_poketinder
 
 import android.content.Intent
 import android.os.Bundle
@@ -8,7 +8,7 @@ import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import com.rommansabbir.animationx.Attention
 import com.rommansabbir.animationx.animationXAttention
-import com.saico.victor.poketinder_2025_01.databinding.ActivitySplashBinding
+import com.imbubb4.moviles_poketinder.databinding.ActivitySplashBinding
 
 class SplashActivity : AppCompatActivity() {
 

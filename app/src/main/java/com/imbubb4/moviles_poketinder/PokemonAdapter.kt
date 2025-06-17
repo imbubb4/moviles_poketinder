@@ -1,11 +1,11 @@
-package com.saico.victor.poketinder_2025_01
+package com.imbubb4.moviles_poketinder
 
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.saico.victor.poketinder_2025_01.databinding.ItemPokemonBinding
+import com.imbubb4.moviles_poketinder.databinding.ItemPokemonBinding
 
 class PokemonAdapter(
     var list: List<PokemonResponse>

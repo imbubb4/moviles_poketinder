@@ -1,11 +1,9 @@
-package com.saico.victor.poketinder_2025_01
+package com.imbubb4.moviles_poketinder
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
-import com.saico.victor.poketinder_2025_01.databinding.ActivityMainBinding
+import com.imbubb4.moviles_poketinder.databinding.ActivityMainBinding
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

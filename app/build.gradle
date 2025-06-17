@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.saico.victor.poketinder_2025_01'
+    namespace 'com.imbubb4.moviles_poketinder'
     compileSdk 35
 
     defaultConfig {
-        applicationId "com.saico.victor.poketinder_2025_01"
+        applicationId "com.imbubb4.moviles_poketinder"
         minSdk 26
         targetSdk 34
         versionCode 1

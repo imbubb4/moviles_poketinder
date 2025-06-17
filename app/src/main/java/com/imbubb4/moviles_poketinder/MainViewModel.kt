@@ -1,4 +1,4 @@
-package com.saico.victor.poketinder_2025_01
+package com.imbubb4.moviles_poketinder
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
@@ -8,7 +8,7 @@ import kotlinx.coroutines.launch
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-class MainViewModel: ViewModel () {
+class MainViewModel: ViewModel() {
 
     val pokemonList = MutableLiveData<List<PokemonResponse>>()
 

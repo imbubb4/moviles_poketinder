@@ -1,4 +1,4 @@
-package com.saico.victor.poketinder_2025_01
+package com.saico.imbubb4.moviles_poketinder
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

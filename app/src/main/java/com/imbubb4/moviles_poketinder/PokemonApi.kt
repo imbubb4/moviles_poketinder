@@ -1,4 +1,4 @@
-package com.saico.victor.poketinder_2025_01
+package com.imbubb4.moviles_poketinder
 
 import retrofit2.Response
 import retrofit2.http.GET

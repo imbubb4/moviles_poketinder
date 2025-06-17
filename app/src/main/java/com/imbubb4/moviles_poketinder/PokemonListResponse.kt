@@ -1,4 +1,4 @@
-package com.saico.victor.poketinder_2025_01
+package com.imbubb4.moviles_poketinder
 
 data class PokemonListResponse(
     val count: Int,
